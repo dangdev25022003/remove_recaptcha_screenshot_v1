@@ -1,0 +1,11 @@
+models:
+  detect: "models/recaptcha_detect_box.pt"
+  segment: "models/recaptcha_seg.pt"
+  classify: "models/recaptcha_class.pt"
+
+data:
+  translations: "data/translations.json"
+  screenshot: "data/screenshot_1744643615.png"
+
+device:
+  auto_detect: true
