@@ -40,10 +40,17 @@ Các mô hình pretrained (hoặc custom CNN) để nhận dạng đối tượn
 
 🚀 Hướng dẫn sử dụng
 Clone repo:
-```bash git clone https://github.com/your-username/recaptcha-solver.git cd recaptcha-solver ``` 
+```bash
+git clone https://github.com/your-username/recaptcha-solver.git
+cd recaptcha-solver
+``` 
 
 Cài đặt thư viện:
-```bash pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
 
 Chạy demo:
-```bash python main.py --image path/to/your/captcha.png```
+```bash 
+python main.py --image path/to/your/captcha.png
+```
