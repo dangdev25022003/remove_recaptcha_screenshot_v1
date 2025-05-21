@@ -42,7 +42,7 @@ Các mô hình pretrained (hoặc custom CNN) để nhận dạng đối tượn
 Clone repo:
 ```bash
 git clone https://github.com/your-username/recaptcha-solver.git
-cd recaptcha-solver
+cd remove_recaptcha_screenshot_v1
 ``` 
 
 Cài đặt thư viện:
