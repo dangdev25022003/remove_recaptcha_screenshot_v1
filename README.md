@@ -36,6 +36,8 @@ PyAutoGUI (tùy chọn) để tự động click chuột
 
 PIL / NumPy
 
+Playwright / crawl
+
 Các mô hình pretrained (hoặc custom CNN) để nhận dạng đối tượng
 
 🚀 Hướng dẫn sử dụng
